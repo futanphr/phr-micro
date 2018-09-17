@@ -6,6 +6,11 @@
     <groupId>com.phr</groupId>
     <artifactId>phr-micro</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>phr-micro-api</module>
+        <module>phr-micro-common</module>
+        <module>phr-micro-service</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>phr-micro</name>
